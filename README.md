@@ -2,7 +2,7 @@
 custom made mechanical keyboards with qmk firmware
 
 After a satisfactory results of xkb setup for Linux OS:
-https://github.com/kranczi/personal_env.
+https://github.com/kranczi/personal_env
 I've had a mixed results when attempting to mirror it for Windows OS.
 My private time is spent on a desktop machine with Win OS and I wanted to have a similar experience.
 
