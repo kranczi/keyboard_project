@@ -17,4 +17,9 @@ After more research I've finally found a solution that will work accordingly to 
 - QMK firmware
 - Dye-sub keycaps cherry profile + NPKC CMYK
 
-More updates will follow regarding decision making for those components as well as actual layered config for the keyboard. At the time of writing components just got shipped and are on their way.
+2020.12.08:  
+More updates will follow regarding decision making for those components as well as actual layered config for the keyboard.  
+At the time of writing components just got shipped and are on their way.
+
+30.01.2020:  
+Happy with the result, able to present the final state of the keyboard config and layouts
